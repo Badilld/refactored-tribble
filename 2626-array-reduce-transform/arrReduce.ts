@@ -1,5 +1,5 @@
 /** https://leetcode.com/problems/array-reduce-transformation/
-* arrReduce.ts.ts
+* arrReduce.ts
 * By: Badilld
 * Date: 5-24-23
 * Description: Given an integer array nums, a reducer function fn, and an initial value init, return a reduced array.
