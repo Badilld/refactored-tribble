@@ -1,4 +1,4 @@
-/** https://leetcode.com/problems/create-hello-world-function/
+/** https://leetcode.com/problems/concatenation-of-array/
 * concat.ts
 * By: Badilld
 * Date: 5-17-23
