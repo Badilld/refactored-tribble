@@ -1,2 +1,2 @@
 # refactored-tribble
-LeetCode Problems Repo
+LeetCode/CodeSignal Problems Repo
